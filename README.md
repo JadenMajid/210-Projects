@@ -27,7 +27,7 @@ This repo features a collection of projects made for PHYS 210 at UBC. The projec
     </div>
 </div>
 <div>
-    <img src="img/ising.webm"
+    <img src="img/ising.gif"
             alt="" />
     <div class="project-text">
         <h3 class="project-name">
@@ -39,7 +39,7 @@ This repo features a collection of projects made for PHYS 210 at UBC. The projec
     </div>
 </div>
 <div>
-    <img src="img/collide.webm"
+    <img src="img/collide.gif"
             alt="" />
     <div class="project-text">
         <h3 class="project-name">
@@ -51,7 +51,7 @@ This repo features a collection of projects made for PHYS 210 at UBC. The projec
     </div>
 </div>
 <div>
-    <img src="img/liquid.webm"
+    <img src="img/liquid.gif"
             alt="" />
     <div class="project-text">
         <h3 class="project-name">
