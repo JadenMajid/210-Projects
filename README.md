@@ -1,6 +1,6 @@
 # 210 Projects
 
-This repo features a collection of projects made for PHYS210 at UBC. The projects are a set of 5 physics simulations. This includes the following:
+This repo features a collection of projects made for PHYS 210 at UBC. The projects are a set of 5 physics simulations written in python with an emphasis on numpy usage. I would later go on to help restructure the course with Professor Joss Ives. This repo includes the following:
 
 <div>
     <img src="img/airdrag.png"
@@ -15,7 +15,7 @@ This repo features a collection of projects made for PHYS210 at UBC. The project
     </div>
 </div>
 <div>
-    <img src="img/rlc.png"
+    <img src="img/rlc.jpeg"
             alt="" />
     <div class="project-text">
         <h3 class="project-name">
